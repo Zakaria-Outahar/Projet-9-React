@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Projet-9-React/static/css/main.864d2ff0.chunk.css",
+    "main.js": "/Projet-9-React/static/js/main.fb83f885.chunk.js",
+    "main.js.map": "/Projet-9-React/static/js/main.fb83f885.chunk.js.map",
+    "runtime-main.js": "/Projet-9-React/static/js/runtime-main.05894c29.js",
+    "runtime-main.js.map": "/Projet-9-React/static/js/runtime-main.05894c29.js.map",
+    "static/js/2.8dc35b40.chunk.js": "/Projet-9-React/static/js/2.8dc35b40.chunk.js",
+    "static/js/2.8dc35b40.chunk.js.map": "/Projet-9-React/static/js/2.8dc35b40.chunk.js.map",
+    "index.html": "/Projet-9-React/index.html",
+    "static/css/main.864d2ff0.chunk.css.map": "/Projet-9-React/static/css/main.864d2ff0.chunk.css.map",
+    "static/js/2.8dc35b40.chunk.js.LICENSE.txt": "/Projet-9-React/static/js/2.8dc35b40.chunk.js.LICENSE.txt",
+    "static/media/heart.c31d61db.svg": "/Projet-9-React/static/media/heart.c31d61db.svg",
+    "static/media/shopimg.2c7ddfae.jpg": "/Projet-9-React/static/media/shopimg.2c7ddfae.jpg",
+    "static/media/shopping-cart.25d65fd4.svg": "/Projet-9-React/static/media/shopping-cart.25d65fd4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05894c29.js",
+    "static/js/2.8dc35b40.chunk.js",
+    "static/css/main.864d2ff0.chunk.css",
+    "static/js/main.fb83f885.chunk.js"
+  ]
+}
